@@ -1,25 +1,29 @@
 
 body{
-  background-color: aqua;
+  background-color: rgb(194, 245, 245);
 }
 td{
   text-align: center;
 }
 a:link, a:visited {
-  background-color: #f0a1cc;
+  font-size: xx-large;
   color: white;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 85px;
+  margin: 65px;
+  text-shadow: 2px 2px 5px rgb(63, 255, 213);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 a:hover, a:active {
-  background-color: rgb(204, 115, 226);
+  background-color: rgb(241, 210, 232);
+  text-shadow: 2px 2px 5px rgb(142, 207, 180);
+
 }
 
 nav{
-  background-color: rgb(30, 121, 101);
+  background-color: rgb(55, 238, 207);
   height: 150px;
   max-width: 100%;
 }
