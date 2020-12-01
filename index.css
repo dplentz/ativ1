@@ -18,10 +18,8 @@ a:hover, a:active {
   background-color: rgb(204, 115, 226);
 }
 
-header{
+nav{
   background-color: rgb(30, 121, 101);
-  padding: 0px;
-  border: 0px;
-  margin: 0%;
-  content: 10px 10px;
+  height: 150px;
+  max-width: 100%;
 }
