@@ -27,3 +27,8 @@ nav{
   height: 150px;
   max-width: 100%;
 }
+
+footer{
+  color: white;
+  background-color: rgb(55, 238, 207);
+}
