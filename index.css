@@ -31,7 +31,6 @@ a:hover, a:active {
   background-color: white;
   margin-left: 200px;
   margin-right: 200px;
-  height: 600px;
 }
 
 nav{
@@ -44,7 +43,7 @@ footer{
   background-color: #00fffb;
 }
 
-#video1{
+.video1{
   margin: 30px;
 }
 
