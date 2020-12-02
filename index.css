@@ -1,10 +1,11 @@
 
 body{
-  background-image: url(wallpaperpontos.jpg);
+  background-image: url(wallpaper.jpeg);
   margin: 0px;
 }
 header{
   background-color: pink;
+  height: 400px;
 }
 td{
   text-align: center;
@@ -12,11 +13,11 @@ td{
 a:link, a:visited {
   font-size: xx-large;
   color: white;
-  padding: 14px 25px;
+  padding: 15px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin-top: 20px;
+  margin-top: 12px;
   margin-left: 42px;
   margin-right: 42px;
   text-shadow: 2px 2px 5px rgb(63, 255, 213);
