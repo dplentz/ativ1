@@ -1,6 +1,10 @@
 
 body{
-  background-color: rgb(194, 245, 245);
+  background-image: url(wallpaperpontos.jpg);
+  margin: 0px;
+}
+header{
+  background-color: pink;
 }
 td{
   text-align: center;
@@ -23,9 +27,8 @@ a:hover, a:active {
   text-shadow: 2px 2px 5px rgb(142, 207, 180);
 
 }
-
 #body{
-  background-color: pink;
+  background-color: white;
   margin-left: 200px;
   margin-right: 200px;
   height: 600px;
