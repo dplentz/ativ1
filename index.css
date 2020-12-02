@@ -24,6 +24,13 @@ a:hover, a:active {
 
 }
 
+#body{
+  background-color: pink;
+  margin-left: 200px;
+  margin-right: 200px;
+  height: 600px;
+}
+
 nav{
   height: 150px;
   max-width: 100%;
