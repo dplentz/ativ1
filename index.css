@@ -40,8 +40,21 @@ nav{
 }
 
 footer{
+  background-color: pink;
+  text-shadow: 2px 2px 5px rgb(63, 255, 213);
   color: white;
-  background-color: #00fffb;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: large;
+  height: 250px;
+}
+
+#fdireita{
+  float: right;
+  width: 650px;
+}
+#fesquerda{
+  width: 650px;
+  margin-left: 20px;
 }
 
 .video1{
@@ -65,5 +78,3 @@ footer{
   float: right;
   margin-right: 35px;
 }
-
-
