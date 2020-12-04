@@ -80,12 +80,8 @@ footer{
 #table {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   border-collapse: collapse;
-<<<<<<< HEAD
   width: 100%;
   text-shadow: 2px 2px 5px #00fffb;
-=======
-  width: 950px;
->>>>>>> ativ1
 }
 
 #table td, #table th {
