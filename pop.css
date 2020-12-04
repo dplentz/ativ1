@@ -82,6 +82,11 @@ footer{
   border-collapse: collapse;
   width: 100%;
   text-shadow: 2px 2px 5px #00fffb;
+<<<<<<< Updated upstream
+=======
+  width: 950px;
+>>>>>>> ativ1
+>>>>>>> Stashed changes
 }
 
 #table td, #table th {
